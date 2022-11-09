@@ -16,11 +16,11 @@
   </h1>
 </div>
  
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
- </div>
+ </div> -->
  
- ---
+
  
  ### :man_technologist: About Me :
  I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
